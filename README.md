@@ -6,7 +6,7 @@ Simple KdTree spacial structure.
 
 ---
 
-- Algoirithm:
+- Algorithm:
 
 ```
 Node *buildKdTree(ini, end, points)
