@@ -22,8 +22,8 @@ Node *buildKdTree(ini, end, points)
 
 - Example of a kd-Tree construction:
 
-![alt text](https://github.com/paulaceccon/kdTree/blob/master/Images/example.png)
+<img src="https://github.com/paulaceccon/kdTree/blob/master/Images/example.png" alt="alt text" width="500">
 
 - Screenshot:
 
-![alt text](https://github.com/paulaceccon/kdTree/blob/master/Images/kdtree.png)
+<img src="https://github.com/paulaceccon/kdTree/blob/master/Images/kdtree.png" alt="alt text" width="500">
